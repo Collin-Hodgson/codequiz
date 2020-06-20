@@ -1,0 +1,63 @@
+.container {
+    background-color: white;
+}
+
+.jumbotron {
+    background-color: white;
+}
+body {
+    background-color: white;
+}
+
+a {
+    font-size: 20px;
+}
+
+h1 {
+    font-weight: lighter;
+    text-align: center;
+    margin: 20px;
+    font-size: 32pt;
+}
+
+p {
+    text-align: center;
+}
+
+#start-button {
+    color: white;
+    background-color: purple;
+}
+
+ul {
+    text-align: center;
+}
+
+button  {
+    background-color: purple;
+    color: white;
+    font-size: 18pt;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+.navbar {
+    padding: 20px;
+    background-color: white;
+}
+
+#countdown {
+    padding: 20px;
+    color: black;
+    width: 70px;
+    float: right;
+}
+
+.jumbotron {
+    margin-top: 20px;
+}
+
+.lead {
+    font-size: 12pt;
+}
