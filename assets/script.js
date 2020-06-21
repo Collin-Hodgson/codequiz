@@ -98,7 +98,7 @@ function verifyAnswer() {
 function endGame() {
   console.log(timeLeft);
   clearInterval(timerInterval);
-  alert("Time is up! Your score is " + timeLeft);
+  alert("Time up/Finished. Your left over time is " + timeLeft);
 
   var element = document.getElementById("endgame-content");
   element.classList.add("invisible");
